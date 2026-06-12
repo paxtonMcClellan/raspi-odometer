@@ -1,0 +1,6 @@
+pyserial
+smbus2
+RPi.GPIO
+gpsd-py3
+pynmea2
+RPLCD
